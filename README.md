@@ -21,10 +21,24 @@
 
 ## Proyek
 
-| Proyek | Deskripsi |
-| --- | --- |
-| [nama-proyek](https://github.com/qubantra/nama-proyek) | Satu kalimat tentang fungsi proyek ini |
-| [nama-proyek](https://github.com/qubantra/nama-proyek) | Satu kalimat tentang fungsi proyek ini |
+Daftar ini diperbarui otomatis setiap hari dari repositori publik yang paling baru aktif.
+
+<!-- PROJECTS:START -->
+Belum ada proyek publik.
+<!-- PROJECTS:END -->
+
+## Statistik
+
+<div align="center">
+
+<img height="165" alt="Statistik GitHub" src="https://github-readme-stats.vercel.app/api?username=qubantra&show_icons=true&hide_title=false&bg_color=222222&title_color=9c8530&text_color=d9d5c7&icon_color=9c8530&ring_color=9c8530&border_color=3a3a3a">
+<img height="165" alt="Bahasa yang sering dipakai" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qubantra&layout=compact&langs_count=6&bg_color=222222&title_color=9c8530&text_color=d9d5c7&border_color=3a3a3a">
+
+<img alt="Kontribusi dan streak" src="https://streak-stats.demolab.com?user=qubantra&background=222222&border=3A3A3A&stroke=3A3A3A&ring=9C8530&fire=9C8530&currStreakNum=D9D5C7&sideNums=D9D5C7&currStreakLabel=9C8530&sideLabels=9C8530&dates=8A8A8A">
+
+<img alt="Pencapaian" src="https://github-profile-trophy.vercel.app/?username=qubantra&theme=gruvbox&column=4&row=2&margin-w=10&margin-h=10">
+
+</div>
 
 ## Berkontribusi
 
